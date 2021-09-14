@@ -21,7 +21,7 @@ public class AppCRUDMain {
             }
         }
  
-      
+        System.out.println("test");
         System.out.println("\n=======Done=======\n");
         System.exit(0);
     } 
